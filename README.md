@@ -33,7 +33,7 @@ https://spotipy.readthedocs.io/en/master/
 
 https://github.com/kiddojazz/Spotify-Data-Analysis/blob/master/Artist%20Data%20using%20Spotipy.ipynb
 ## Dataset
-I have uploaded the data that I have collected in Kaggle site.
+I have uploaded the data that I have collected here and also in Kaggle site.
 https://www.kaggle.com/datasets/madrasiharish/spotify-2022-sep-6-7
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madrasiharish/)
